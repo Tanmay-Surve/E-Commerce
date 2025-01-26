@@ -1,4 +1,4 @@
-# Basic E-Commerce Application
+# E-Commerce Application
 
 A simple e-commerce web application developed using **Spring Boot**. This application provides basic features such as product listing, cart management, user registration, and order processing. It is designed to give a simple view of how an e-commerce system can be implemented using the Spring Boot framework.
 
