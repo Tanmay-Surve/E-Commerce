@@ -18,9 +18,3 @@ A simple e-commerce web application developed using **Spring Boot**. This applic
 - **MySQL**: Relational database to store user, product, and order data..
 - **Bootstrap**: For frontend styling.
 - **Maven**: Dependency management and build tool.
-
-Build the project using Maven:
-mvn clean install
-
-Run the application:
-mvn spring-boot:run
